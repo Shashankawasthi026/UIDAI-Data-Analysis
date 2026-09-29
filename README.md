@@ -4,16 +4,21 @@
 This project focuses on analyzing Aadhaar enrolment data using Python and Jupyter Notebook. It includes data cleaning, preprocessing, and extracting meaningful insights from large datasets.
 
 🎯 Objectives
+
 • Combine multiple datasets into a single DataFrame
 • Clean and preprocess raw data
 • Handle missing values and inconsistencies
 • Standardize state and district names
 • Extract useful features like year, month, and day
+
 🛠️ Technologies Used
+
 • Python
 • Pandas
 • Jupyter Notebook
+
 📂 Dataset
+
 The dataset contains Aadhaar enrolment records, including:
 
 • Date of enrolment
